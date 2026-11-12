@@ -1,6 +1,5 @@
-<!-- Site icon: the protection ring from the Clinical calm tokens (three quarters drawn in teal on a pine tile). No shields or locks (guardian-design SKILL.md). -->
+<!-- Site icon: the fork from "the line" (DESIGN-NOTES.md), ballpoint blue on newsprint paper. -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
-  <rect width="64" height="64" rx="16" fill="#0f3d36"/>
-  <circle cx="32" cy="32" r="17" fill="none" stroke="#ffffff" stroke-opacity="0.18" stroke-width="7"/>
-  <path d="M32 15a17 17 0 1 1-17 17" fill="none" stroke="#2fa08c" stroke-width="7" stroke-linecap="round"/>
+  <rect width="64" height="64" rx="12" fill="#ecebe4"/>
+  <path d="M8 32h15c8 0 9-13 18-13h15M23 32c8 0 9 13 18 13h15" fill="none" stroke="#2b43c4" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
