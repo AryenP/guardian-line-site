@@ -1,5 +1,4 @@
 User-Agent: *
 Allow: /
 
-Host: https://guardianline.app
-Sitemap: https://guardianline.app/sitemap.xml
+Sitemap: https://aryenp.github.io/guardian-line-site/sitemap.xml
