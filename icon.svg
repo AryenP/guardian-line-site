@@ -1,5 +1,5 @@
-<!-- Site icon: the fork from "the line" (DESIGN-NOTES.md), ballpoint blue on newsprint paper. -->
+<!-- Site icon: the mark of the final system (D-46): the fork of a call, dark, on the accent square. -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
-  <rect width="64" height="64" rx="12" fill="#ecebe4"/>
-  <path d="M8 32h15c8 0 9-13 18-13h15M23 32c8 0 9 13 18 13h15" fill="none" stroke="#2b43c4" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect width="64" height="64" rx="17" fill="#cdf35a"/>
+  <path d="M12 32h13c7 0 8.5-11 16.5-11H52M25 32c7 0 8.5 11 16.5 11H52" fill="none" stroke="#11150a" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
